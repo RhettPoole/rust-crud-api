@@ -28,7 +28,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 |5.28      |10:00AM   |IM      |Create project plan, initialize repo        |1:00HR-      |
 |5.28      |2:00      |MTG     |Attend Planning Meeting                     |1:00HR       |
-|          |          |        |                                            |             |
+|5.28      |6:00      |IM      |Complete Hello World Activity, set up env   |0:30HR-       |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
